@@ -9,3 +9,5 @@ Parking lot system for Web3bridge test that simulate a little parking lot using 
 Bootstrapp library was use in this project.active
 
 HTML, CSS & Javascript
+
+## Download the source code to your local computer and go to the index.html and see how it works
